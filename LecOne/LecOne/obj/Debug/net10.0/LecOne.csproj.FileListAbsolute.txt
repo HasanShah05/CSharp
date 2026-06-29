@@ -1,0 +1,14 @@
+C:\Users\hasan\source\repos\LecOne\LecOne\obj\Debug\net10.0\LecOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\LecOne\LecOne\obj\Debug\net10.0\LecOne.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\LecOne\LecOne\obj\Debug\net10.0\LecOne.AssemblyInfo.cs
+C:\Users\hasan\source\repos\LecOne\LecOne\obj\Debug\net10.0\LecOne.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\LecOne\LecOne\bin\Debug\net10.0\LecOne.exe
+C:\Users\hasan\source\repos\LecOne\LecOne\bin\Debug\net10.0\LecOne.deps.json
+C:\Users\hasan\source\repos\LecOne\LecOne\bin\Debug\net10.0\LecOne.runtimeconfig.json
+C:\Users\hasan\source\repos\LecOne\LecOne\bin\Debug\net10.0\LecOne.dll
+C:\Users\hasan\source\repos\LecOne\LecOne\bin\Debug\net10.0\LecOne.pdb
+C:\Users\hasan\source\repos\LecOne\LecOne\obj\Debug\net10.0\LecOne.dll
+C:\Users\hasan\source\repos\LecOne\LecOne\obj\Debug\net10.0\refint\LecOne.dll
+C:\Users\hasan\source\repos\LecOne\LecOne\obj\Debug\net10.0\LecOne.pdb
+C:\Users\hasan\source\repos\LecOne\LecOne\obj\Debug\net10.0\LecOne.genruntimeconfig.cache
+C:\Users\hasan\source\repos\LecOne\LecOne\obj\Debug\net10.0\ref\LecOne.dll
