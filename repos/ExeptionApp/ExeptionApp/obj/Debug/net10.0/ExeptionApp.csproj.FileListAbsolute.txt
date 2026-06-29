@@ -1,0 +1,15 @@
+C:\Users\hasan\source\repos\ExeptionApp\ExeptionApp\bin\Debug\net10.0\ExeptionApp.exe
+C:\Users\hasan\source\repos\ExeptionApp\ExeptionApp\bin\Debug\net10.0\ExeptionApp.deps.json
+C:\Users\hasan\source\repos\ExeptionApp\ExeptionApp\bin\Debug\net10.0\ExeptionApp.runtimeconfig.json
+C:\Users\hasan\source\repos\ExeptionApp\ExeptionApp\bin\Debug\net10.0\ExeptionApp.dll
+C:\Users\hasan\source\repos\ExeptionApp\ExeptionApp\bin\Debug\net10.0\ExeptionApp.pdb
+C:\Users\hasan\source\repos\ExeptionApp\ExeptionApp\obj\Debug\net10.0\ExeptionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\ExeptionApp\ExeptionApp\obj\Debug\net10.0\ExeptionApp.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\ExeptionApp\ExeptionApp\obj\Debug\net10.0\ExeptionApp.AssemblyInfo.cs
+C:\Users\hasan\source\repos\ExeptionApp\ExeptionApp\obj\Debug\net10.0\ExeptionApp.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\ExeptionApp\ExeptionApp\obj\Debug\net10.0\ExeptionApp.sourcelink.json
+C:\Users\hasan\source\repos\ExeptionApp\ExeptionApp\obj\Debug\net10.0\ExeptionApp.dll
+C:\Users\hasan\source\repos\ExeptionApp\ExeptionApp\obj\Debug\net10.0\refint\ExeptionApp.dll
+C:\Users\hasan\source\repos\ExeptionApp\ExeptionApp\obj\Debug\net10.0\ExeptionApp.pdb
+C:\Users\hasan\source\repos\ExeptionApp\ExeptionApp\obj\Debug\net10.0\ExeptionApp.genruntimeconfig.cache
+C:\Users\hasan\source\repos\ExeptionApp\ExeptionApp\obj\Debug\net10.0\ref\ExeptionApp.dll
