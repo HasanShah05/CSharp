@@ -12,3 +12,9 @@ C:\Users\hasan\source\repos\learningApp\learningApp\obj\Debug\net10.0\refint\lea
 C:\Users\hasan\source\repos\learningApp\learningApp\obj\Debug\net10.0\learningApp.pdb
 C:\Users\hasan\source\repos\learningApp\learningApp\obj\Debug\net10.0\learningApp.genruntimeconfig.cache
 C:\Users\hasan\source\repos\learningApp\learningApp\obj\Debug\net10.0\ref\learningApp.dll
+C:\Users\hasan\source\repos\learningApp\learningApp\obj\Debug\net10.0\learningApp.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\learningApp\learningApp\obj\Debug\net10.0\learningApp.sourcelink.json
+C:\Users\hasan\source\repos\learningApp\learningApp\bin\Debug\net10.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hasan\source\repos\learningApp\learningApp\bin\Debug\net10.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hasan\source\repos\learningApp\learningApp\bin\Debug\net10.0\Npgsql.dll
+C:\Users\hasan\source\repos\learningApp\learningApp\obj\Debug\net10.0\learning.3A6BF406.Up2Date

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\hasan\\source\\repos\\learningApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{62C06268-80B2-D1D2-6D38-C23EC22A2A70}|learningApp\\learningApp.csproj|c:\\users\\hasan\\source\\repos\\learningapp\\learningapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62C06268-80B2-D1D2-6D38-C23EC22A2A70}|learningApp\\learningApp.csproj|solutionrelative:learningapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{62C06268-80B2-D1D2-6D38-C23EC22A2A70}|learningApp\\learningApp.csproj|c:\\users\\hasan\\source\\repos\\learningapp\\learningapp\\learningapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{62C06268-80B2-D1D2-6D38-C23EC22A2A70}|learningApp\\learningApp.csproj|solutionrelative:learningapp\\learningapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
@@ -26,24 +30,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hasan\\source\\repos\\learningApp\\learningApp\\Program.cs",
+              "RelativeDocumentMoniker": "learningApp\\Program.cs",
+              "ToolTip": "C:\\Users\\hasan\\source\\repos\\learningApp\\learningApp\\Program.cs",
+              "RelativeToolTip": "learningApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T18:08:53.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "polymor.cs",
               "DocumentMoniker": "C:\\Users\\hasan\\source\\repos\\learningApp\\learningApp\\polymor.cs",
               "RelativeDocumentMoniker": "learningApp\\polymor.cs",
               "ToolTip": "C:\\Users\\hasan\\source\\repos\\learningApp\\learningApp\\polymor.cs",
               "RelativeToolTip": "learningApp\\polymor.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAA3wDcAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-22T11:34:33.703Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "learningApp",
               "DocumentMoniker": "C:\\Users\\hasan\\source\\repos\\learningApp\\learningApp\\learningApp.csproj",
               "RelativeDocumentMoniker": "learningApp\\learningApp.csproj",
@@ -55,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Inheritence.cs",
               "DocumentMoniker": "C:\\Users\\hasan\\source\\repos\\learningApp\\learningApp\\Inheritence.cs",
               "RelativeDocumentMoniker": "learningApp\\Inheritence.cs",
@@ -68,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "StorageExmaple.cs",
               "DocumentMoniker": "C:\\Users\\hasan\\source\\repos\\learningApp\\learningApp\\StorageExmaple.cs",
               "RelativeDocumentMoniker": "learningApp\\StorageExmaple.cs",
@@ -76,7 +93,8 @@
               "RelativeToolTip": "learningApp\\StorageExmaple.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-17T12:19:15.575Z"
+              "WhenOpened": "2026-06-17T12:19:15.575Z",
+              "EditorCaption": ""
             }
           ]
         }
