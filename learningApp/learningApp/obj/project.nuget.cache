@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "I7OWOnv2h1c=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hasan\\source\\repos\\learningApp\\learningApp\\learningApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hasan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\hasan\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.0\\microsoft.extensions.logging.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\hasan\\.nuget\\packages\\npgsql\\10.0.3\\npgsql.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
