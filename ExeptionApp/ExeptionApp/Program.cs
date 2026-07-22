@@ -22,6 +22,7 @@ namespace ExeptionApp
             (CustomException ex)
             {
                 Console.WriteLine($"caught it : the message is {ex.Message}");
+                Console.WriteLine()
             }
         }
     }

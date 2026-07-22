@@ -1,0 +1,27 @@
+# === Operating System Junk ===
+.DS_Store
+Thumbs.db
+*.swp
+
+# === C# / .NET Build Outputs ===
+bin/
+obj/
+[Log]/
+[log]/
+
+# === Visual Studio / VS Code Settings ===
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# === Rider / JetBrains IDE ===
+.idea/
+*.sln.iml
+
+# === User Secrets & Local Environment Configs ===
+.env
+.env.local
+appsettings.Development.json
